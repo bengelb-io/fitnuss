@@ -1,0 +1,20 @@
+{
+  "expo": {
+    "name": "fitnuss",
+    "slug": "fitnuss",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
+    "newArchEnabled": true,
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.fitnuss.app"
+    },
+    "android": {
+      "package": "com.fitnuss.app"
+    },
+    "web": {
+      "bundler": "metro"
+    }
+  }
+}
